@@ -1,8 +1,6 @@
 # option_calculator
 
-BSM Equation, Monte Carlo Simulation, Binominall Tree, 세 가지 방법으로 유러피안 옵션을 프라이싱할 수 있는 계산기를 파이썬으로 구현하여 공유한다. 
-
-이와 함께 Newton Lapson법을 이용한 내재 변동성 계산기와 BSM Equation을 이용한 그릭(Greeks) 계산기 또한 공유한다.
+BSM Equation, Monte Carlo Simulation, Binominall Tree, 세 가지 방법으로 유러피안 옵션을 프라이싱할 수 있는 계산기를 파이썬으로 구현하여 공유한다. 이와 함께 Newton Lapson법을 이용한 내재 변동성 계산기와 BSM Equation을 이용한 그릭(Greeks) 계산기 또한 공유한다.
 
 (7월 중순 업로드 예정)
 
