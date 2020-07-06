@@ -2,8 +2,6 @@
 
 BSM Equation, Monte Carlo Simulation, Binominall Tree, 세 가지 방법으로 유러피안 옵션을 프라이싱할 수 있는 계산기를 파이썬으로 구현하여 공유한다. 이와 함께 Newton Raphson법을 이용한 내재 변동성 계산기와 BSM Equation을 이용한 그릭(Greeks) 계산기 또한 공유한다.
 
-(7월 초순 업로드 예정)
-
 ## 1. option_price.py : 옵션 계산기
 
 사용법 : python3 option_price.py -M "모델명" -n "모수" -o "옵션종류" -s0 "현재가" -k "행사가" -v "변동성" -r "무위험 이자율" -q "연단위 배당율" -t "1년 단위 기간"
